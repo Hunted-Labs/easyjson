@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mailru/easyjson"
-	"github.com/mailru/easyjson/jwriter"
+	"github.com/Hunted-Labs/easyjson"
+	"github.com/Hunted-Labs/easyjson/jwriter"
 )
 
 type testType interface {
